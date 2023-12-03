@@ -23,6 +23,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "https://aplusiv.github.io/ra_1-1_components_store-fc/",
   "browserslist": {
     "production": [
       ">0.2%",
@@ -34,6 +35,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": "https://aplusiv.github.io/ra_1-1_components_store-cc/"
+  }
 }
